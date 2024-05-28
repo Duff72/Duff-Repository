@@ -1,0 +1,1 @@
+ls lists the contents of the current directory
