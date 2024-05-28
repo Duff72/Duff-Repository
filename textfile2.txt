@@ -1,2 +1,3 @@
 ls lists the contents of the current directory
 commit: saves all the snopshots of our changes
+nano: opens a text editor of the file
